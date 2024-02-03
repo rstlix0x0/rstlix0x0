@@ -12,7 +12,13 @@ The meaning of naming `rstlix0x0` consists of three things:
 
 This account supposed to using either `Rust` or `Elixir` programming languages and its technology stacks. Besides of it, this account will also used to focus on:
 
-- Blockchain or CryptoCurrency
-- Decentralized or P2P networks
+- Blockchain or CryptoCurrency development
+- Decentralized or P2P networks development
+- Backend development
 - Tooling development
 - Sharing knowledges
+
+## The Projects
+
+- `prople`: https://github.com/prople
+- `lifefunk`: https://github.com/lifefunk
