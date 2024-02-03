@@ -16,7 +16,7 @@ This account supposed to using either `Rust` or `Elixir` programming languages a
 - Decentralized or P2P networks development
 - Backend development
 - Tooling development
-- Sharing knowledges
+- Knowledges sharing 
 
 ## The Projects
 
