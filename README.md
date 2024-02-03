@@ -1,16 +1,18 @@
-### Hi there 👋
+# rstlix0x0/rstlix0x0
 
-<!--
-**rstlix0x0/rstlix0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## The Name
 
-Here are some ideas to get you started:
+The meaning of naming `rstlix0x0` consists of three things:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `rst` : It's taken from `*.rs` or `Rust`. If we remove the `u` character, we will get `rst`
+- `lix` : Actually it's taken from `Elixir`, and I just take `lix` from it
+- `0x0` : Any number multiplied by zero is zero, and also inspired from `Ethereum` address format 
+
+## The Objectives 
+
+This account supposed to using either `Rust` or `Elixir` programming languages and its technology stacks. Besides of it, this account will also used to focus on:
+
+- Blockchain or CryptoCurrency
+- Decentralized or P2P networks
+- Tooling development
+- Sharing knowledges
