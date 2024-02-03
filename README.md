@@ -21,4 +21,4 @@ This account supposed to using either `Rust` or `Elixir` programming languages a
 ## The Projects
 
 - `prople`: https://github.com/prople
-- `lifefunk`: https://github.com/lifefunk
+- `lifefunk`: [LifeFunk Github Organization](https://github.com/lifefunk) | [Publication](https://medium.com/lifefunk)
