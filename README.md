@@ -6,9 +6,9 @@ The meaning of naming `rstlix0x0` consists of three things:
 
 - `rst` : It's taken from `*.rs` or `Rust`. If we remove the `u` character, we will get `rst`
 - `lix` : Actually it's taken from `Elixir`, and I just take `lix` from it
-- `0x0` : Any number multiplied by zero is zero, and also inspired from `Ethereum` address format 
+- `0x0` : Any number multiplied by zero is zero, and also inspired from `Ethereum` address format
 
-## The Objectives 
+## The Objectives
 
 This account supposed to using either `Rust` or `Elixir` programming languages and its technology stacks. Besides of it, this account will also used to focus on:
 
@@ -16,9 +16,5 @@ This account supposed to using either `Rust` or `Elixir` programming languages a
 - Decentralized or P2P networks development
 - Backend development
 - Tooling development
-- Knowledges sharing 
+- Knowledges sharing
 
-## The Projects
-
-- `prople`: https://github.com/prople
-- `lifefunk`: [LifeFunk Github Organization](https://github.com/lifefunk) | [Publication](https://medium.com/lifefunk)
